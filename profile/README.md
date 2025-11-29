@@ -31,24 +31,29 @@
 
 ## Overview
 
-Coin Tick delivers a clean and immediate way to follow real-time crypto prices directly from the macOS menu bar. It provides subtle visual cues, fast updates, and a distraction-free presence that keeps the user connected to the market without interrupting workflow. The interface focuses on clarity and balance, ensuring numbers feel readable and meaningful at a glance. With customizable alerts, users gain gentle notifications when key levels are reached, creating a sense of control without noise. Coin Tick adapts to daily rhythm, offering a lightweight companion that blends seamlessly with macOS aesthetics. Its minimalism is purposeful, designed to offer insight without complexity. By reducing friction, Coin Tick becomes an effortless part of market awareness.
+Coin Tick is designed for users who want instant visibility into cryptocurrency prices without opening a browser, charting tool, or full trading terminal. It transforms the macOS menu bar into a subtle stream of market awareness, where every price feels alive and current. By placing information in the most natural and accessible part of the screen, Coin Tick removes friction from staying informed. The interface is intentionally compact, giving the user essential data without visual noise. Every update feels immediate, smooth, and perfectly in rhythm with the desktop environment. This lightweight presence makes Coin Tick feel more like a natural extension of macOS than a standalone application. Because of this seamless integration, users can maintain awareness of the market even during deeply focused work sessions.
 
+Coin Tick’s design philosophy revolves around emotional comfort and visual clarity. Instead of overwhelming users with charts, animations, and technical signals, the app distills market movement into clean, readable values. Users can interpret price shifts with just a glance, reducing cognitive load and decision fatigue. Its color cues communicate direction without demanding attention, making the experience calm rather than stressful. Frequent traders appreciate the subtle cues that hint at volatility without forcing urgency. Casual holders enjoy effortless oversight without feeling pressured to react to every movement. By blending restraint with relevance, Coin Tick becomes a reliable, non-intrusive companion for navigating an environment known for sudden fluctuations.
+
+The app offers deep customization for users who want precise control over updates. Price refresh intervals can be adjusted to match fast markets or slower long-term monitoring. Notification thresholds allow users to define the exact price levels that matter. Favorite cryptocurrencies can be pinned and reordered based on relevance. The interface adapts naturally to user preferences, creating a sense of ownership and personalization. Coin Tick’s efficiency ensures that these features never feel heavy or complicated. Even when tracking many assets, the app remains smooth and responsive. Its focus on performance allows it to deliver real-time insights without taxing system resources or slowing down other tasks.
+
+Ultimately, Coin Tick stands apart by offering meaningful awareness without demanding attention. It delivers the essence of crypto monitoring while remaining quiet, efficient, and visually peaceful. Traders can use it as an early signal to decide whether opening a full trading platform is necessary. Long-term investors can keep track of the market subtly throughout the day. The balance achieved between minimalism, timeliness, and personalization makes Coin Tick a powerful yet understated tool. It respects the user’s space while keeping them connected to a fast-moving world. This harmony between function and simplicity is what defines Coin Tick’s identity on macOS.
 
 ---
 
 ## Major Features
-• Real-time crypto quotes directly in the macOS menu bar.
-• Customizable alert thresholds for price changes.
-• Minimalistic design focused on quick readability.
-• Adjustable update frequency for different market speeds.
-• Favorite-asset pinning for rapid access.
-• Color indicators for trend direction.
-• Low resource usage with smooth performance.
-• Support for multiple currencies and pairs.
-• Seamless light and dark mode integration.
-• Privacy-respecting local data handling.
-• Stable behavior during market volatility.
-• User-defined asset ordering.
+- Real-time crypto quotes directly in the macOS menu bar.
+- Customizable alert thresholds for price changes.
+- Minimalistic design focused on quick readability.
+- Adjustable update frequency for different market speeds.
+- Favorite-asset pinning for rapid access.
+- Color indicators for trend direction.
+- Low resource usage with smooth performance.
+- Support for multiple currencies and pairs.
+- Seamless light and dark mode integration.
+- Privacy-respecting local data handling.
+- Stable behavior during market volatility.
+- User-defined asset ordering.
 
 ---
 
